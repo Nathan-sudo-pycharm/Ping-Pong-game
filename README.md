@@ -8,9 +8,6 @@ This is a single player pong game that recognizes player's fist gestures and tak
 
 Pong is one of the first computer games ever created. This simple "tennis-like" game features two paddles and a ball. The goal is to defeat your opponent by being the first one to gain 10 points. A player gets a point when the opponent misses the ball. The game can be played with two human players or one player against a computer-controlled paddle. Pong was originally developed by Allan Alcorn and released in 1972 by Atari Corporation. It became a huge success and the first commercially successful game.<br> In 1975, Atari released a home edition of Pong, which sold 150,000 units. Today, the Pong game is considered to be the game that started the video game industry, as it proved that the market could generate significant revenues.<br>
 
-## Captures<br>
-<br>
-![image](https://github.com/Nathan-sudo-pycharm/Ping-Pong-game/assets/117172083/7177da12-3352-4598-833d-d41ec8b561de)<br>
 
 ## Tools Used<br>
 
