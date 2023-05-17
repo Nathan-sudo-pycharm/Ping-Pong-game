@@ -10,7 +10,7 @@ Pong is one of the first computer games ever created. This simple "tennis-like" 
 
 ## Captures<br>
 <br>
-![Ping-Pong Game](https://github.com/Nathan-sudo-pycharm/Ping-Pong-game/assets/117172083/7177da12-3352-4598-833d-d41ec8b561de)<br>
+![image](https://github.com/Nathan-sudo-pycharm/Ping-Pong-game/assets/117172083/7177da12-3352-4598-833d-d41ec8b561de)<br>
 
 ## Tools Used<br>
 
